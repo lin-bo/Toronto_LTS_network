@@ -15,10 +15,10 @@ Lin, B., Chan, T. C., & Saxe, S. (2021). The Impact of COVID-19 Cycling Infrastr
 
 ## References
 
-Furth, P. G., Mekuria, M. C., & Nixon, H. (2016). Network connectivity for low-stress bicycling. Transportation research record, 2587(1), 41-49. DOI: [https://doi.org/10.3141/2587-06](https://doi.org/10.3141/2587-06).
+Furth, P. G., Mekuria, M. C., & Nixon, H. (2016). Network connectivity for low-stress bicycling. Transportation Research Record, 2587(1), 41-49. DOI: [https://doi.org/10.3141/2587-06](https://doi.org/10.3141/2587-06).
 
 Lin, B., Chan, T. C., & Saxe, S. (2021). The Impact of COVID-19 Cycling Infrastructure on Low-Stress Cycling Accessibility: A Case Study in the City of Toronto. Findings, 19069. DOI: [https://doi.org/10.32866/001c.19069](https://doi.org/10.32866/001c.19069).
 
-Imani, A. F., Miller, E. J., & Saxe, S. (2019). Cycle accessibility and level of traffic stress: A case study of Toronto. Journal of transport geography, 80, 102496. DOI: [https://doi.org/10.1016/j.jtrangeo.2019.102496](https://doi.org/10.1016/j.jtrangeo.2019.102496).
+Imani, A. F., Miller, E. J., & Saxe, S. (2019). Cycle accessibility and level of traffic stress: A case study of Toronto. Journal of Transport Geography, 80, 102496. DOI: [https://doi.org/10.1016/j.jtrangeo.2019.102496](https://doi.org/10.1016/j.jtrangeo.2019.102496).
 
 
