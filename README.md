@@ -5,7 +5,7 @@ This repository open-sources the ArcGIS shape file containing our recent calcula
 ## What is LTS?
 LTS is a metric developed Furth et al. (2016) to assess the cycling suitability of road links and intersections. It classifies the road links and intersections into four categoris LTS1-4 corresponding to cyclists with different skill levels and stress tolerance. LTS1 means the road is safe and comfortable for most people including children. LTS2 corresponds to the stress tolerance for the majority of adult population. LTS3 and LTS4 are for "enthused and confident" and "strong and fearless" cyclists, respectively.
 
-The LTS of a road link was calculated based on the road type, the type (or abstence) of cycling infrastructure, the vehicle traffic speed and volume, and so on. The LTS of an intersection was computed based on the LTS of its intersecting roads and the presence of stop sign and traffic signals. Please check out the papers by [Lin et al.](https://doi.org/10.32866/001c.19069) and [Imani et al.](https://doi.org/10.3141/2587-06) for more details. 
+The LTS of a road link was calculated based on the road type, the type (or abstence) of cycling infrastructure, the vehicle traffic speed and volume, and so on. The LTS of an intersection was computed based on the LTS of its intersecting roads and the presence of stop sign and traffic signals. Please check out the papers by [Lin et al. (2021)](https://doi.org/10.32866/001c.19069) and [Imani et al. (2019)](https://doi.org/10.3141/2587-06) for more details. 
 
 ## How to cite this dataset?
 
