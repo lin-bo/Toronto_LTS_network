@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="LTS_Map_July2021.jpg" /></p>
+
 # The LTS of Toronto's Road Network.
 
 This repository open-sources the ArcGIS shape file containing our recent calculation of the level of traffic stress (LTS) for Toronto's road network. The calculation was based on the road network in July, 2021 (the newest cycle track along Yonge Street was included!).
