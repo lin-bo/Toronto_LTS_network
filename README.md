@@ -9,6 +9,9 @@ LTS is a metric developed Furth et al. (2016) to assess the cycling suitability 
 
 The LTS of a road link was calculated based on the road type, the type (or abstence) of cycling infrastructure, the vehicle traffic speed and volume, and so on. The LTS of an intersection was computed based on the LTS of its intersecting roads and the presence of stop sign and traffic signals. Please check out the papers by [Lin et al. (2021)](https://doi.org/10.32866/001c.19069) and [Imani et al. (2019)](https://doi.org/10.3141/2587-06) for more details. 
 
+## How to use this dataset?
+You can connect this shape file with Toronto's road network available on [Toronto Open Data Portal](https://open.toronto.ca) using column "GEO_ID". 
+
 ## How to cite this dataset?
 
 To cite this dataset, please cite our recent paper:
