@@ -2,7 +2,7 @@
 
 # The LTS of Toronto's Road Network.
 
-This repository open-sources the ArcGIS shape file containing our recent calculation of the level of traffic stress (LTS) for Toronto's road network. The calculation was based on the road network in July, 2021 (the newest cycle track along Yonge Street was included!).
+This repository open-sources the ArcGIS shape file containing our recent calculation of the level of traffic stress (LTS) for Toronto's road network. The calculation was based on the road network in July 2021 (the newest cycle track along Yonge Street was included!).
 
 ## What is LTS?
 LTS is a metric developed by Furth et al. (2016) to assess the cycling suitability of road links and intersections. It classifies the road links and intersections into four categoris LTS1-4 corresponding to cyclists with different skill levels and stress tolerance. LTS1 means the road is safe and comfortable for most people including children. LTS2 corresponds to the stress tolerance for the majority of adult population. LTS3 and LTS4 are for "enthused and confident" and "strong and fearless" cyclists, respectively.
