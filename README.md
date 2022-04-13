@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="figs/LTS_map_july2021.jpg" /></p>
+<p align="center"><img width="80%" src="LTS_Network_trt.png" /></p>
 
 # The LTS of Toronto's Road Network.
 
